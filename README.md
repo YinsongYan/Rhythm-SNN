@@ -82,7 +82,7 @@ python main_ecg-skipASRNN.py # for Rhythm-ASRNN
 ### **5. DVS-Gesture Dataset**
 Run the following scripts for training on the DVS-Gesture dataset, located in the `DVS-Gesture` folder:
 ```
-python main_DVS-skipSRNN_general_cosA.py  # for Rhythm-FFSNN
+python main_DVS-skipSRNN_general_cosA.py  # for Rhythm-SRNN
 python main_DVS-skipASRNN_general_cosA.py # for Rhythm-ASRNN
 ```
 
