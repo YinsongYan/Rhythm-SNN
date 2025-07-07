@@ -2,7 +2,7 @@
 Codes for ***Efficient and robust temporal processing with neural oscillations modulated spiking neural networks***
 
 
-Yinsong Yan<sup>†</sup>, Qu Yang<sup>†</sup>, [Yujie Wu](https://yjwu17.github.io/), [Haizhou Li](https://www.colips.org/~eleliha/), [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) and [Jibin Wu](https://www.jibinwu.com/)*
+Yinsong Yan<sup>†</sup>, Qu Yang<sup>†</sup>, [Yujie Wu](https://yjwu17.github.io/), Hanwen Liu, Malu Zhang, [Haizhou Li](https://www.colips.org/~eleliha/), [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) and [Jibin Wu](https://www.jibinwu.com/)*
 
 
 
