@@ -261,7 +261,7 @@ class FFSNN_general(nn.Module):
         input = input.view(input.size(0), -1)
         #input = input.view(input.size(0), input_size, -1)
         for step in range(time_window):
-            input_x = input[step, None]#[:, step, None]
+            input_x = input[:, step, None]
 
             h1_mem, h1_spike = mem_update_skip_woDecay(self.fc1, input_x, h1_mem, h1_spike, self.mask1[:, step])
             h2_mem, h2_spike = mem_update_skip_woDecay(self.fc2, h1_spike, h2_mem, h2_spike, self.mask2[:, step])
